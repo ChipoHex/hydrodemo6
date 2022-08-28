@@ -17,7 +17,7 @@
 */
 import { useState } from 'react'
 import { Disclosure, RadioGroup, Tab } from '@headlessui/react'
-import { StarIcon } from '@heroicons/react/24/solid'
+import { StarIcon } from '@heroicons/react/solid'
 import { HeartIcon, MinusSmIcon, PlusSmIcon } from '@heroicons/react/24/outline'
 
 const product = {
