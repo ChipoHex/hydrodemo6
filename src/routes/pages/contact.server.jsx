@@ -18,7 +18,7 @@
 import { useState } from 'react'
 import { Disclosure, RadioGroup, Tab } from '@headlessui/react'
 import { StarIcon } from '@heroicons/react/solid'
-import { HeartIcon, MinusSmIcon, PlusSmIcon } from '@heroicons/react/24/outline'
+import { HeartIcon, MinusSmIcon, PlusSmIcon } from '@heroicons/react/outline'
 
 const product = {
   name: 'Zip Tote Basket',
