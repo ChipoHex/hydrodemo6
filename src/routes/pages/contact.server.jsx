@@ -13,7 +13,7 @@
       require('@tailwindcss/aspect-ratio'),
     ],
   }
-  ```
+  ```@heroicons/react/solid
 */
 import { useState } from 'react'
 import { Disclosure, RadioGroup, Tab } from '@headlessui/react'
