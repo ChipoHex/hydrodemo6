@@ -1,5 +1,5 @@
 import React from "react";
-import { ChevronRightIcon , ChevronDownIcon } from "@heroicons/react/24/outline";
+import { ChevronRightIcon , ChevronDownIcon } from "@heroicons/react/outline";
 
 const AccordionUI = ({ title, children, Id, Index,icon, setIndex }) => {
   const handleSetIndex = (Id) => Index !== Id && setIndex(Id);
